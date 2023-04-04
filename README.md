@@ -5,7 +5,7 @@
 - FullStack 
 - Backend는 API만 제공
 - FrontEnd는 API에 맞춘 데이터로만 작성
-- Continer 기분 가동
+- Continer 기반 셋팅
 - OS : RockyLinux 9 
 - 기본 기능
    - 회원가입
