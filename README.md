@@ -1,5 +1,5 @@
 # Basic CRUD Project
-==================
+
 ## 기본규칙
 - 3가지 버전 작성
 - FullStack 
