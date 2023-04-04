@@ -7,6 +7,8 @@
 - FrontEnd는 API에 맞춘 데이터로만 작성
 - Continer 기반 셋팅
 - OS : RockyLinux 9 
+- DB : Mysql
+- Sql 스키마 https://github.com/CRUDProtoType/README/blob/main/BasicTable.sql
 - 기본 기능
    - 회원가입
    - 로그인
