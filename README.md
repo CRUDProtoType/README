@@ -7,7 +7,14 @@
 - FrontEnd는 API에 맞춘 데이터로만 작성
 - Continer 기반 셋팅
 - OS : RockyLinux 9 
+   - 서버설정
+   - 네트워크
+   ``` sh
+      $ vi /etc/sysconfig/network-scripts/ifcfg-enp0s3
+      $ 
+   ```
 - DB : Mysql
+- Redis : container https://github.com/hong-havi/Redis
 - Sql 스키마 https://github.com/CRUDProtoType/README/blob/main/BasicTable.sql
 - 기본 기능
    - 회원가입
@@ -16,6 +23,8 @@
    - 글 리스트
    - 글 수정
    - 글 삭제
+  
+  
   
 ## FullStack
 ### 필수사항
