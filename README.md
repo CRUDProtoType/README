@@ -9,7 +9,7 @@
 - OS : RockyLinux 9 
    - 서버설정
    - 네트워크
-   ``` sh
+   ```
       $ vi /etc/sysconfig/network-scripts/ifcfg-enp0s3
       $ 
    ```
